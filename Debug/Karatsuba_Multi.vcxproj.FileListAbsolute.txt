@@ -1,0 +1,2 @@
+C:\karastuba_git\Karatsuba_Multi\Debug\Karatsuba_Multi.exe
+C:\karastuba_git\Karatsuba_Multi\Debug\Karatsuba_Multi.pdb
